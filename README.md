@@ -3,7 +3,7 @@
 This Project involved analysing rainfall data obtained from the website, data.gov, in order to implement techniques to predict
 future rainfall.
 I have implemented two different techniques:
-                                1) Regression based analysis, simple and multilinear
+                                1) Regression based analysis, simple linear regression and multilinearregression
                                 2) LSTM based architecture (RNN) technique.
                                 
 #The Regression based analysis was used to obtain a prediction of annual rainfall in the meteorological subdivision of Rayalseema, on the basis that rainfall was correlated there with respect to coastal Andhra and Tamil Nadu's annual rainfall. The correlation was validated using the Pearsonr correlation statistic and the p-value was below the constraint 0.05.
